@@ -1,39 +1,49 @@
+Trial: 1
 403009
 010000
 Skipped holes: 1
 
+Trial: 2
 458604
 01101100111111110000
 Skipped holes: 3
 
+Trial: 3
 950789
 0000010110000
 Skipped holes: 2
 
+Trial: 4
 1960594
 1001001011101010000
 Skipped holes: 6
 
+Trial: 5
 411194
 0011101001000110000
 Skipped holes: 4
 
+Trial: 6
 484050
 1101001001100010000
 Skipped holes: 5
 
+Trial: 7
 977393
 11110001111010010000
 Skipped holes: 4
 
+Trial: 8
 183970
 1010001011001110000
 Skipped holes: 5
 
+Trial: 9
 701921
 1110000
 Skipped holes: 1
 
+Trial: 10
 1004476
 10111100010100110000
 Skipped holes: 5
