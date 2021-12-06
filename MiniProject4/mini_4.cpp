@@ -30,8 +30,9 @@ int main()
 
     // cout << hex << (int)z.a[0] << endl;
 
-    for(int k = 0; k < 10; k++)
+    for(int k = 1; k <= 10; k++)
     { // loop 10 times for 10 trials
+        cout << "Trial: " << k << endl;
         skipped = 0;                // resets skipped hole counter
         z.x = uint_dist10(rng);     // generates random number
         cout << z.x << endl;
